@@ -23,7 +23,7 @@ article:
 
 # Navigation bar menu links.
 menu:
-  OAuth: /categories/OAuth
+  Html: /categories/Html
   Archives: /archives
   # Lifestyle: /categories/LifeStyle
   # Music: /categories/Music
@@ -35,9 +35,9 @@ search:
   type: insight
 
 # Share plugin settings.
-share:
-  type: sharethis
-  install_url:
+# share:
+#   type: sharethis
+#   install_url:
 
 # Comment plugin settings.
 comment:

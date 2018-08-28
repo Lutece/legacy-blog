@@ -9,7 +9,7 @@ description: Tech blog
 keywords: frontend, UI, UX, computer science, software principle
 author: Lutece
 language: ko
-timezone: Asian/Seoul
+timezone: Asia/Seoul
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
